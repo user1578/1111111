@@ -1,0 +1,9 @@
+../Core/Src/main.c:47:17:GetSector	24	static
+../Core/Src/main.c:69:13:UART_Print	16	static
+../Core/Src/main.c:74:13:TF_Card_Detect	8	static
+../Core/Src/main.c:79:13:IsAppValid	16	static
+../Core/Src/main.c:85:12:Update_App_Code	2216	static
+../Core/Src/main.c:192:13:Jump_To_App	88	static,ignoring_inline_asm
+../Core/Src/main.c:234:5:main	48	static
+../Core/Src/main.c:322:6:SystemClock_Config	88	static
+../Core/Src/main.c:357:6:Error_Handler	4	static,ignoring_inline_asm

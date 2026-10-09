@@ -1,0 +1,9 @@
+../Core/Src/main.c:47:17:GetSector	3
+../Core/Src/main.c:69:13:UART_Print	1
+../Core/Src/main.c:74:13:TF_Card_Detect	1
+../Core/Src/main.c:79:13:IsAppValid	3
+../Core/Src/main.c:85:12:Update_App_Code	15
+../Core/Src/main.c:192:13:Jump_To_App	2
+../Core/Src/main.c:234:5:main	13
+../Core/Src/main.c:322:6:SystemClock_Config	3
+../Core/Src/main.c:357:6:Error_Handler	1
