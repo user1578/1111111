@@ -1,0 +1,7 @@
+**/Debug/
+**/Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
